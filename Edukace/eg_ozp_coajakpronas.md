@@ -9,6 +9,16 @@ author: zpracovali Michal Rada a Vladimír Dvořák v rámci projektů EGdílna
 
 ## 1.2. 🖋 Historie verzí
 
+Tento dokument je vytvářen jako zcela otevřený výstup publikovaný a spravovaný na GITu. Kdokoliv může sledovat jeho vývoj a kdokoliv může také řízeně přispět.
+
+Dokument naleznete v jeho zdrojové pracovní verzi vždy na následující adrese:
+
+- https://github.com/michalradacz/egproozp/blob/main/Edukace/eg_ozp_coajakpronas.md
+
+
+
+
+
 ## 1.3. 🖋 Použití dokumentu
 
 

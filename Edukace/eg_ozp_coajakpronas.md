@@ -26,6 +26,37 @@ Dokument naleznete v jeho zdrojové pracovní verzi vždy na následující adre
 
 # 3. 🖋 Produkty eGovernmentu: Co EG přináší klientům a jak to může být prospěšné i pro nás
 
+## Poznáváme základní produkty eGovernmentu a jejich přínos pro nás
+
+Řekněme si, z čeho se ten EG vlastně skládá. V tabulce jsou popsány jeho základní pilíře pojaté jako produkty jak pro úředníky, tak i pro klienty. Pro ukázku posloupnosti jsme tabulku seřadili chronologicky podle data vzniku.
+
+| Název | Popis |
+|------|---------|
+| Produkt Elektronická spisová služba | Správa dokumentů a procesy jejich evidence a správy a transakční důvěryhodnosti ryze v elektronické podobě se zaručeným zabezpečením a důvěryhodností. |
+| Produkt Datové schránky | Zaručený elektronický kanál pro důvěryhodný a platný přenos digitálních dokumentů. |
+| Produkt Základní registry | Základní registry jsou zdrojovými databázemi klíčových závazných údajů pro účely především veřejné správy. Jde o registry osob, firem, adres a práv a povinností a skutečností. Veřejná správa je povinna údaje ze základních registrů využívat vždy, a to bez nutnosti jejich dokládáním obtěžovat klienta. |
+| Produkt Otevřená data | Veřejnoprávní subjekty jsou povinny poskytovat svá data (kromě blokovaných) jako automaticky strojově zpracovatelná a popsaná otevřená data. Taková data jsou komukoliv kdykoliv k dispozici bez jakéhokoliv omezení. |
+| Produkt Elektronická identifikace | Funkční elektronická identifikace a jednoznačná identifikace konkrétní fyzické osoby nezpochybnitelná pro elektronickou komunikaci a autentizaci. |
+| Produkt Digitální služby | Zákon o právu na digitální služby definuje další vrstvu služeb, kromě těch obecných, jako je komunikace datovou schránkou. Orgány veřejné moci jsou povinny služby poskytovat a klient má na služby nezpochybnitelné právo. Digitální služba je přitom komplexní službou. |
+| Produkt Propojený datový fond | Mechanismy sdílení údajů mezi jednotlivými agendovými systémy, aby byly důvěryhodné a bylo možno je také správně spravovat a notifikovat o jejich změnách. |
+[Představení základních produktů EG řazené chrologicky dle vzniku]
+
+A řekněme si dále, čím jsou tyhle základní pilíře přínosem i pro nás jako osoby se zdravotním postižením:
+
+* Produkt Základní registry má význam pro  Osoby se zdravotním postižením : Platí obdobně jako u Propojeného datového fondu, tedy povinným využíváním a sdílením základních údajů nemusejí ani OZP tyto údaje dokládat. Znamená také podstatné zjednodušení a snížení potřeby vyplňování formulářů.
+* Produkt Propojený datový fond má význam pro  Osoby se zdravotním postižením : Díky sdílení údajů napříč úřady nebude muset klient neustále něco vyplňovat a dokládat a bude mít jistotu, že úřad má vždy aktuální data. Pro OZP to znamená podstatné snížení administrativní zátěže, dále i OZP budou moci využívat práva na přístup k údajům o nich vedených v systémech, a mít tak konečně přehled o svých údajích, ale i o svých řízeních či případech.
+* Produkt Digitální služby má význam pro  Osoby se zdravotním postižením : Koncept digitálních služeb je od začátku postaven na rovném přístupu. Pro OZP jsou komplexní digitální služby ještě významnější, než pro ostatní klienty, protože fakticky minimalizují interakci s úřadem. Služby a úkony jsou tak jednoduchou a efektivní formou realizace práv také pro OZP, a to bez nutnosti kupříkladu vlastnit elektronický podpis. Jde o jedinou zcela bezbariérovou formu využívání služeb veřejné správy.
+* Produkt Elektronická identifikace má význam pro  Osoby se zdravotním postižením : Protože i elektronická identifikace je povinně přístupná, umožňuje se tím OZP plně komunikovat s úřadem výhradně elektronicky, a to bez nutnosti podpisu nebo zdlouhavého vyplňování formulářů či studování dokumentů. Je to prostředek důvěry, kterým lze dnes již plně nahradit potřebu fyzické návštěvy na úřadě, čímž se řeší také problém nedostatečné bezbariérovosti úřadů. Navíc lze EID využívat i pro důvěryhodnou a smluvní komunikaci s komerčními subjekty. Jde o jedinou zcela bezbariérovou formu přístupu a ověření totožnosti.
+* Produkt Datové schránky má význam pro  Osoby se zdravotním postižením : Datová schránka plně nahrazuje jakoukoliv poštovní komunikaci klienta s úřadem a také nově i zaručeně mezi komerčními subjekty. Komunikace je výhradně digitální a v kombinaci s přístupností dokumentů jde o jedinou formu bezbariérové komunikace s úřadem.
+* Produkt Elektronická spisová služba má význam pro  Osoby se zdravotním postižením : Přínosem řádné správy dokumentů je také povinnost technické přístupnosti dokumentů i pro OZP, která je povinná pro všechny úřady a veřejnoprávní původce. OZP se také může hodit povinnost a důkazní břemeno na straně úřadu v nutnosti doložení vzniku, průběhu životního cyklu a pravosti dokumentu prostřednictvím transakčního protokolu.
+* Produkt Otevřená data má význam pro  Osoby se zdravotním postižením : Publikace otevřených a dynamických dat je příležitostí pro tvorbu nových aplikací a řešení třetích stran, tato řešení pak mohou být prospěšná i pro OZP, navíc i OZP mohou přímo otevřená data využívat a procházet je.
+
+
+## Co eGovernment nabízí klientům
+
+V rámci základní architektury EG přínosů byly dále definovány konkrétní produkty pro klienty, ty jsou popsány níže. Jde tak o vysvětlení, co opravdu EG klientům přináší. V době zpracování podkladu se na tomto seznamu stále pracovalo a tedy se zdaleka nejedná o vyčerpávající seznam.
+
+
 
 | Produkt                                                                                | Popis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

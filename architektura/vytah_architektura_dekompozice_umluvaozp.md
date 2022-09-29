@@ -1,3 +1,8 @@
+# Úvod
+
+V rámci přípravy transpozice EAA jsme na MPO aplikovali princip povinný, nicméné úřady stále igonrovaný, a to je architektonická dekompozice návrhu změny legislativy. Výsledkem je mimo jiné zmapování povinností stanovených Úmluvou a jejich vazeb na návrhy transpozičních zákonů. Je to celé o dost složitější, ale na OSGA jsme se dohodli, že poskytneme nějaký výstupní dokument s přehledem, co to znamená a co z toho leze za výstupy pro předkladatele. Celé je to soućástí tvorby procesů pro přípravu legislativních návrhů a na tomto případě se u MPO ukázala hrubá neznalost, kterou se tímto způsobem podařilo částečně napravit.
+
+
 # Proč se hodí zpracovat si znalostní architekturu k novelizaci legislativy?
 
 

@@ -1,3 +1,16 @@
+# Proč se hodí zpracovat si znalostní architekturu k novelizaci legislativy?
+
+
+
+# Výsledky zpracování znalostní architektury k transpozici EAA  ve vztahu k Úmluvě o právech OZP
+
+Níže jsou už výsledky dekompozice, která probíhala následovně:
+
+1. Dekompozice Úmluvy na jasné povinnosti jež se dají přiřadit konkrétním návrhům legislativy a jsou sledovatelné
+2. Zpracování vazeb mezi návrhem zákona a povinností jež se jím plní a kontrola, zda je v návrh vše
+3. Promítnuti znalostí do důvodové zprávy a RIA u návrhů a do znalostní architektury transpozice EAA
+
+
 ## Definované povinnosti plynoucí z úmluvy
 
 
@@ -31,3 +44,35 @@ Dekompozicí Úmluvy jako předpisu a rozborem jeho konkrétních ustanovení by
 | Podporovat přístup OZP k IT a službám | Státy, které jsou smluvní stranou úmluvy o právech osob se zdravotním postižením přijmou příslušná opatření  s cílem podporovat přístup osob se zdravotním postižením k novým informačním a komunikačním technologiím a systémům, včetně internetu | Čl 9 odst. 2 písm. g) úmluvy o právech OZP č. 10/2010 |
 | Podporovat návrh a vývoj a výrobu IT přístupných pro OZP | Státy, které jsou smluvní stranou úmluvy o právech osob se zdravotním postižením přijmou příslušná opatření  s cílem podporovat plánování, vývoj, výrobu a distribuci informačních a komunikačních technologií a systémů již v rané fázi způsobem, který zajistí jejich přístupnost za vynaložení minimálních nákladů | Čl 9 odst. 2 písm. h) úmluvy o právech OZP č. 10/2010 |
 [Výstup architektury dekompozice Úmluvy OZP - definované sledované povinnosti]
+
+
+## Realizace povinností úmluvy transpozicí do zákonů v gesci MPO
+
+
+### k výrobkům
+
+Právní předpis Smlouva 10/2010 sb.m.s. Úmluva o právech OZP je prováděn předpisem Právní předpis Směrnice EU 2019/882 EAA : 
+Právní předpis Směrnice EU 2019/882 EAA je prováděn předpisem Právní předpis Návrh zákona transpozice EAA přístupnost výrobků : 
+OVM Ministerstvo průmyslu a obchodu je předkladatelem návrhu Právní předpis Návrh zákona transpozice EAA přístupnost výrobků :  Důvod Transpozice směrnice EAA do právního řádu je motivací pro Právní předpis Návrh zákona transpozice EAA přístupnost výrobků : 
+Právní předpis Návrh zákona transpozice EAA přístupnost výrobků je realizací povinnosti Povinnost Přijmout veškerá opatření k provádění práv OZP podle Čl 4 odst. 1 písm a) úmluvy o právech OZP č. 10/2010
+Právní předpis Návrh zákona transpozice EAA přístupnost výrobků je realizací povinnosti Povinnost Přijmout veškerá opatření proti diskriminaci OZP podle Čl 4 odst. 1 písm e) úmluvy o právech OZP č. 10/2010
+Právní předpis Návrh zákona transpozice EAA přístupnost výrobků je realizací povinnosti Povinnost Podporovat a zařadit univerzální design do norem a směrnic podle Čl 4 odst. 1 písm. f) úmluvy o právech OZP č. 10/2010
+Právní předpis Návrh zákona transpozice EAA přístupnost výrobků je realizací povinnosti Povinnost Zajistit normy pro přístupnost zařízení a služeb a kontrolovat jejich dodržování podle Čl 9 odst. 2 písm. a) úmluvy o právech OZP č. 10/2010
+Právní předpis Návrh zákona transpozice EAA přístupnost výrobků je realizací povinnosti Povinnost Zajistit přístupnost zařízení a služeb poskytovaných soukromými subjekty podle Čl 9 odst. 2 písm. b) úmluvy o právech OZP č. 10/2010
+Právní předpis Návrh zákona transpozice EAA přístupnost výrobků je realizací povinnosti Povinnost Podporovat návrh a vývoj a výrobu IT přístupných pro OZP podle Čl 9 odst. 2 písm. h) úmluvy o právech OZP č. 10/2010
+
+
+### ke službám
+
+
+
+- OVM Ministerstvo průmyslu a obchodu je předkladatelem návrhu Právní předpis Návrh zákona o přístupnosti služeb :  Právní předpis Směrnice EU 2019/882 EAA je prováděn předpisem Právní předpis Návrh zákona o přístupnosti služeb :  Důvod Transpozice směrnice EAA do právního řádu je motivací pro Právní předpis Návrh zákona o přístupnosti služeb :
+- Právní předpis Návrh zákona o přístupnosti služeb je realizací povinnosti Povinnost Přijmout veškerá opatření k provádění práv OZP podle Čl 4 odst. 1 písm a) úmluvy o právech OZP č. 10/2010
+- Právní předpis Návrh zákona o přístupnosti služeb je realizací povinnosti Povinnost Přijmout veškerá opatření proti diskriminaci OZP podle Čl 4 odst. 1 písm e) úmluvy o právech OZP č. 10/2010
+- Právní předpis Návrh zákona o přístupnosti služeb je realizací povinnosti Povinnost Zajistit přístupnost dopravy podle Čl 9 odst. 1 písm. a) úmluvy o právech OZP č. 10/2010
+- Právní předpis Návrh zákona o přístupnosti služeb je realizací povinnosti Povinnost Zajistit přístupnost informačních a elektronických služeb podle Čl 9 odst. 1 písm b) úmluvy o právech OZP č. 10/2010
+- Právní předpis Návrh zákona o přístupnosti služeb je realizací povinnosti Povinnost Zajistit normy pro přístupnost zařízení a služeb a kontrolovat jejich dodržování podle Čl 9 odst. 2 písm. a) úmluvy o právech OZP č. 10/2010
+- Právní předpis Návrh zákona o přístupnosti služeb je realizací povinnosti Povinnost Zajistit přístupnost zařízení a služeb poskytovaných soukromými subjekty podle Čl 9 odst. 2 písm. b) úmluvy o právech OZP č. 10/2010
+- Právní předpis Návrh zákona o přístupnosti služeb je realizací povinnosti Povinnost Podporovat přístup OZP k IT a službám podle Čl 9 odst. 2 písm. g) úmluvy o právech OZP č. 10/2010
+- Právní předpis Návrh zákona o přístupnosti služeb je realizací povinnosti Povinnost Podporovat návrh a vývoj a výrobu IT přístupných pro OZP podle Čl 9 odst. 2 písm. h) úmluvy o právech OZP č. 10/2010
+

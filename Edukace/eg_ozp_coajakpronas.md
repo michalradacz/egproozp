@@ -3,9 +3,12 @@ Title: Přínosy eGovernmentu pro osoby se zdravotním postižením
 author: zpracovali Michal Rada a Vladimír Dvořák v rámci projektů EGdílna
 ---
 
-# 1. 🖋 Úvod
+# 1.  Úvod
 
-## 1.1. 🖋 O tomto dokumentu
+## 1.1. KEKOREKTUŘE  O tomto dokumentu
+
+
+Tento dokument má primárně sloužit pro popis klíčových prvků eGovernmentu  a jejich přínosu pro osoby s nějakým znevýhodněním a to zejména pro osoby se zdravotním postižením. Jedná se o pracovní dokument a výstup zpracovaný v rámci Pracovní skupiny pro přístupnost veřejné správy a veřejných služeb Vládního výboru pro osoby se zdravotním postižením a je určen zejména široké veřejnosti.
 
 ## 1.2. Historie verzí
 
@@ -37,7 +40,7 @@ Dokument se skládá vlastně ze třech zdrojů informací obsahujících vše p
 
 
 
-# 2. 🖋 Stručně o eGovernmentu a veřejné správě
+# 2. KEKOREKTUŘE  Stručně o eGovernmentu a veřejné správě
 
 Cílem tohoto materiálu není detailně popisovat jednotlivé aspekty elektronizace a digitalizace veřejné správy. Níže jsou uvedeny ty nejzákladnější principy, které veřejná správa musí několik let povinně dodržovat a to nehledě na to, zda na ně technicky ještě není připravena.
 
@@ -69,7 +72,7 @@ Jak je vidět, my zde máme dokonce vlastní princip, a to P3 k přístupnosti a
 
 Začneme na obecné úrovni. Architektura eGovernmentu, (což je soubor znalostí, stručně řečeno), definuje určité základní stavební kameny EG, kterým po odborné stránce říkáme "produkty". Z nich je sestavena celá stavebnice fungující elektronizace a také se jedná o základní pilíře. 
 
-## Poznáváme základní produkty eGovernmentu a jejich přínos pro nás
+## 3.1. Poznáváme základní produkty eGovernmentu a jejich přínos pro nás
 
 Řekněme si, z čeho se ten EG vlastně skládá. V tabulce jsou popsány jeho základní pilíře pojaté jako produkty jak pro úředníky, tak i pro klienty. Pro ukázku posloupnosti jsme tabulku seřadili chronologicky podle data vzniku.
 
@@ -95,7 +98,7 @@ A řekněme si dále, čím jsou tyhle základní pilíře přínosem i pro nás
 * Produkt Otevřená data má význam pro  Osoby se zdravotním postižením : Publikace otevřených a dynamických dat je příležitostí pro tvorbu nových aplikací a řešení třetích stran, tato řešení pak mohou být prospěšná i pro OZP, navíc i OZP mohou přímo otevřená data využívat a procházet je.
 
 
-## Co eGovernment nabízí klientům
+## 3.2. Co eGovernment nabízí klientům
 
 V rámci základní architektury EG přínosů byly dále definovány konkrétní produkty pro klienty, ty jsou popsány níže. Jde tak o vysvětlení, co opravdu EG klientům přináší. V době zpracování podkladu se na tomto seznamu stále pracovalo a tedy se zdaleka nejedná o vyčerpávající seznam.
 

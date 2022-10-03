@@ -5,10 +5,10 @@ author: zpracovali Michal Rada a Vladimír Dvořák v rámci projektů EGdílna
 
 # 1.  Úvod
 
-## 1.1. KEKOREKTUŘE  O tomto dokumentu
+## 1.1. O tomto dokumentu
 
 
-Tento dokument má primárně sloužit pro popis klíčových prvků eGovernmentu  a jejich přínosu pro osoby s nějakým znevýhodněním a to zejména pro osoby se zdravotním postižením. Jedná se o pracovní dokument a výstup zpracovaný v rámci Pracovní skupiny pro přístupnost veřejné správy a veřejných služeb Vládního výboru pro osoby se zdravotním postižením a je určen zejména široké veřejnosti.
+Dokument má primárně sloužit pro popis klíčových prvků eGovernmentu a jejich přínosu pro osoby s nějakým znevýhodněním, a to zejména pro osoby se zdravotním postižením. Jedná se o pracovní dokument a výstup zpracovaný v rámci Pracovní skupiny pro přístupnost veřejné správy a veřejných služeb Vládního výboru pro osoby se zdravotním postižením, je určen zejména široké veřejnosti.
 
 ## 1.2. Historie verzí
 
@@ -27,7 +27,7 @@ Dokument je zatím v jediné verzi. Po jeho aktualizacích bude na tomto místě
 
 Dokument je využitelný pro dvě skupiny příjemců:
 
-1. Osoby se zdravotním postižením: Ukazuje nám, co je to eGovernment a jak z něj můžeme těžit. Mimo jiné udává i základní povinnosti a naše práva, kterých se musíme být schopni vůči státu a veřejné správě domáhat.
+1. Osoby se zdravotním postižením: Ukazuje co je to eGovernment a jak z něj mohou lidé se zdravotním postižením těžit. Mimo jiné udává i základní povinnosti a práva, kterých by osoby se zdravotním postižením měly být schopny domáhat se vůči státu a veřejné správě.
 2. Úředníkům, kupříkladu koordinátorům problematiky OZP v resortech: Udává obecný rámec a námět na to, jak přemýšlet o výhodách elektronizace pro OZP
 
 
@@ -35,14 +35,14 @@ Dokument se skládá vlastně ze třech zdrojů informací obsahujících vše p
 
 1. Popis takzvaných "produktů EG", což si představte jako jednotlivé projekty, nebo jednotlivé oblasti elektronizace. Kromě popisu produktů a jejich přínosu pro nás jako OZP je uvedena i tabulka konkrétních přínosů pro všechny klienty, ze kterých ale také těžíme i my.
 2. Vymezení základních digitálních práv a jejich popis, tato práva jsou obecná, jsou koncipována také tak, aby znamenala přínos i pro nás.
-3. Uvedení konkrétních povinností každého úřadu, které musí naplnit vždy, a tedy i při komunikaci a úřadování s námi OZP. Tyto povinnosti můžeme po úřadu vyžadovat a domoci se tak svých práv.
+3. Uvedení konkrétních povinností každého úřadu, které musí naplnit vždy, a tedy i při komunikaci a úřadování s námi OZP. Tyto povinnosti můžeme po úřadu vyžadovat, a domoci se tak svých práv.
 
 
 
 
-# 2. KEKOREKTUŘE  Stručně o eGovernmentu a veřejné správě
+# 2. Stručně o eGovernmentu a veřejné správě
 
-Cílem tohoto materiálu není detailně popisovat jednotlivé aspekty elektronizace a digitalizace veřejné správy. Níže jsou uvedeny ty nejzákladnější principy, které veřejná správa musí několik let povinně dodržovat a to nehledě na to, zda na ně technicky ještě není připravena.
+Cílem materiálu není detailně popisovat jednotlivé aspekty elektronizace a digitalizace veřejné správy. Níže jsou uvedeny ty nejzákladnější principy, které veřejná správa musí několik let povinně dodržovat, a to nehledě na to, zda na ně technicky je či není připravena.
 
 Principy pocházejí z platné Informační koncepce ČR, což je závazný rámec pro všechny úřady:
 
@@ -59,9 +59,9 @@ Principy pocházejí z platné Informační koncepce ČR, což je závazný rám
 - Architektonický princip P15: Uživatelská přívětivost
 - Architektonický princip P16: Konsolidace a propojování informačních systémů veřejné správy
 
-Jak je vidět, my zde máme dokonce vlastní princip, a to P3 k přístupnosti a použitelnosti především pro uživatele s nějakým znevýhodněním, tedy i pro osoby se zdravotním postižením. Nicméně všechny výše uvedené principy se nás přímo dotýkají. IKČR obsahuje daleko více principů a cílů, nicméně ty nejsou pro pochopení obecnosti důležité. Kdo má zájem, může si projít celý [předpis Informační koncepce ČR](https://archi.gov.cz/ikcr), ale pro tento dokument to nebude potřebovat.
+Jak je vidět, my zde máme dokonce vlastní princip, a to P3 k přístupnosti a použitelnosti především pro uživatele s nějakým znevýhodněním, tedy i pro osoby se zdravotním postižením. A všechny výše uvedené principy se nás přímo dotýkají. IKČR obsahuje daleko více principů a cílů, nicméně ty nejsou pro pochopení obecnosti důležité. Kdo má zájem, může si projít celý [předpis Informační koncepce ČR](https://archi.gov.cz/ikcr), ale pro tento dokument to nebude potřebovat.
 
- Výše uvedeným základním principům se v posledních letech přizpůsobuje také legislativní rámec, tedy jednotlivé zákony udávající související povinnosti a stanovující rámec pro elektronizaci veřejné správy. 
+Výše uvedeným základním principům se v posledních letech přizpůsobuje také legislativní rámec, tedy jednotlivé zákony udávající související povinnosti a stanovující rámec pro elektronizaci veřejné správy. 
  
  Legislativa k EG je vysoce odborná a složitá, a to i pro běžné odborníky. Kdo by měl zájem si udělat rámcový přehled, co najde v jednotlivých klíčových EG zákonech, může se podívat na dokument "Podrobný popis vybraných EG předpisů" na adrese http://www.egdilna.cz/metodiky/eg-legislativa.html.
 
